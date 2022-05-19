@@ -16,7 +16,10 @@
 .div1{
     grid-area: 1/1/span 3/span 4;
     background-image: url(./tree.webp);
-    background-position: center center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
     
 }
 
